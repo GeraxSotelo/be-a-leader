@@ -23,3 +23,13 @@
 img {
   max-width: 500px;
 }
+
+.features-item:hover {
+  box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+}
+
+main i {
+  font-size: 1.4em;
+  padding: 5px;
+  margin-bottom: 5px;
+}
