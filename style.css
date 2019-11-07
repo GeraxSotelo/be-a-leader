@@ -1,4 +1,4 @@
-.header-nav h3 {
+.header-nav h3, footer h5 {
   font-family: 'Lobster', cursive;
 }
 
@@ -34,13 +34,22 @@ main i {
   margin-bottom: 5px;
 }
 
+.light-background {
+  background-color: #d7d1c9;
+}
+
 .main-2-info {
   background-color: cornflowerblue;
-  padding: 5%;
+  padding: 2% 5%;
 }
 
 .main-2-info .wrapper {
   width: 60%;
   padding-top: 10%;
   padding-left: 10%;
+}
+
+
+footer i {
+  font-size: 1.4em;;
 }
