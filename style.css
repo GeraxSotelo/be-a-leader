@@ -33,3 +33,14 @@ main i {
   padding: 5px;
   margin-bottom: 5px;
 }
+
+.main-2-info {
+  background-color: cornflowerblue;
+  padding: 5%;
+}
+
+.main-2-info .wrapper {
+  width: 60%;
+  padding-top: 10%;
+  padding-left: 10%;
+}
